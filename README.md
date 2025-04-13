@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @paigefnf
+- 👀 I’m interested in the game "Friday Night Funkin"
+- 🌱 I’m currently learning Haxe
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I'm like 5% good at Haxe
