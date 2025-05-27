@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paigefnf
+- 👋 Hi, I’m @burgersk8r
 - 👀 I’m interested in the game "Friday Night Funkin"
 - 🌱 I’m currently learning Haxe
 - 😄 Pronouns: They/Them
